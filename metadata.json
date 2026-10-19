@@ -1,0 +1,6 @@
+{
+  "name": "Spot2Tube - Spotify to YouTube Converter",
+  "description": "Convierte cualquier playlist de Spotify a enlaces y videos de YouTube automáticamente con un solo clic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
